@@ -1,4 +1,4 @@
-# Repositório do desafio de projeto sobre GIT/GitHUB da DIO
+# Repositório do desafio de projeto sobre Git/GitHUB da DIO
 
 Repositório para o curso da DIO FullStack Developer
 

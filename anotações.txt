@@ -10,4 +10,7 @@ Aula inaugural Spread - https://www.youtube.com/watch?v=arOdjTUQ0-M
 
 20/04
 - Introdução a criação de websites com HTML5 e CSS3 - Concluído
-Posicionando elementos com Flexbox em CSS - Em andamento
+- Posicionando elementos com Flexbox em CSS - Em andamento
+
+22/04
+- Posicionando elementos com Flexbox em CSS - Em andamento

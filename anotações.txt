@@ -17,3 +17,6 @@ Aula inaugural Spread - https://www.youtube.com/watch?v=arOdjTUQ0-M
 
 23/04
 - Posicionando elementos com Flexbox em CSS - Em andamento
+
+29/04
+- Posicionando elementos com Flexbox em CSS - Em andamento

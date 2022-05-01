@@ -20,3 +20,8 @@ Aula inaugural Spread - https://www.youtube.com/watch?v=arOdjTUQ0-M
 
 29/04
 - Posicionando elementos com Flexbox em CSS - Em andamento
+
+01/05 
+- Posicionando elementos com Flexbox em CSS - Concluído
+- Criada landpage(FlexTurismo) usando os conceitos aprendidos no curso
+- Recriando a página inicial do Instagram - Iniciado

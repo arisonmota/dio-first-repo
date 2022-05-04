@@ -25,3 +25,6 @@ Aula inaugural Spread - https://www.youtube.com/watch?v=arOdjTUQ0-M
 - Posicionando elementos com Flexbox em CSS - Concluído
 - Criada landpage(FlexTurismo) usando os conceitos aprendidos no curso
 - Recriando a página inicial do Instagram - Iniciado
+
+03/05
+-Continuando a criação da landpage do Instagram

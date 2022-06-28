@@ -31,3 +31,7 @@ Aula inaugural Spread - https://www.youtube.com/watch?v=arOdjTUQ0-M
 
 06/05
 - Introdução ao JavaScript - Em andamento
+
+09/05
+- Introdução ao JavaScript - Concluído
+- 
